@@ -31,7 +31,7 @@
 ![Image](https://github.com/user-attachments/assets/148377f8-8dae-4663-8120-fa8910b22538)
 
 ---
-# 케이스 기종
+# 케이스 리스트
 
 ### **iPhone 기종**
 - 아이폰 16, 16+, 16 PRO, 16 PRO MAX
