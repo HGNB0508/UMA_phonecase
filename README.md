@@ -34,7 +34,7 @@
 # 케이스 리스트
 
 ### **iPhone 기종**
-- 아이폰 16, 16+, 16 PRO, 16 PRO MAX
+- 아이폰 16, 16e, 16+, 16 PRO, 16 PRO MAX
 - 아이폰 15, 15+, 15 PRO, 15 PRO MAX
 - 아이폰 14, 14+, 14 PRO, 14 PRO MAX
 - 아이폰 13, 13 MINI, 13 PRO, 13 PRO MAX
