@@ -74,3 +74,26 @@
   - 갤럭시 NOTE20, NOTE20 ULTRA  
   - 갤럭시 NOTE10, NOTE10+  
   - 갤럭시 NOTE9
+
+---
+
+
+
+# 맥세이프 가능 기종
+
+
+### **iPhone 기종**
+- 아이폰 16, 16e, 16+, 16 PRO, 16 PRO MAX
+- 아이폰 15, 15+, 15 PRO, 15 PRO MAX
+- 아이폰 14, 14+, 14 PRO, 14 PRO MAX
+- 아이폰 13, 13 MINI, 13 PRO, 13 PRO MAX
+- 아이폰 12, 12 MINI, 12 PRO, 12 PRO MAX
+
+
+### **Samsung Galaxy 기종**
+  - 갤럭시 S25, S25+, S25 ULTRA  
+  - 갤럭시 S24, S24+, S24 ULTRA  
+  - 갤럭시 S23, S23+, S23 ULTRA  
+  - 갤럭시 S22, S22+, S22 ULTRA  
+  - 갤럭시 S21, S21+, S21 ULTRA  
+
