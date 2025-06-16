@@ -57,8 +57,7 @@
   - 갤럭시 S21, S21+, S21 ULTRA  
   - 갤럭시 S20, S20+, S20FE  
   - 갤럭시 S20 ULTRA  
-  - 갤럭시 S10, S10+, S10 5G, S10E (LITE)  
-  - 갤럭시 S9, S9+  
+  - 갤럭시 S10, S10+, S10 5G, S10E (LITE)
 
 - **Galaxy A 시리즈**  
   - 갤럭시 A56  
