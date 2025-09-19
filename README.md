@@ -2,6 +2,7 @@
 ---
 # 도안
 
+1차 도안
 ![Image](https://github.com/user-attachments/assets/5f36d23c-246f-47c1-90bb-da19b485c8cf)
 ![Image](https://github.com/user-attachments/assets/f4e41e40-24d9-441d-a8b4-c657b28eca44)
 ![Image](https://github.com/user-attachments/assets/37adbcea-9282-481b-bfcf-9f4fef4f96f2)
@@ -30,6 +31,8 @@
 ![Image](https://github.com/user-attachments/assets/b3b88130-a6aa-4c1e-a388-24a5789be69e)
 ![Image](https://github.com/user-attachments/assets/148377f8-8dae-4663-8120-fa8910b22538)
 
+
+2차 도안
 <img width="2254" height="1674" alt="드림저니" src="https://github.com/user-attachments/assets/d720b1c6-d503-4033-94f2-e21b69e0c6dc" />
 <img width="2254" height="1674" alt="크로노 제네시스" src="https://github.com/user-attachments/assets/6210a8e3-87a6-4216-9870-9e52e11b03fb" />
 <img width="2254" height="1674" alt="스틸 인 러브" src="https://github.com/user-attachments/assets/3b88976d-f2f7-4c4c-9fb4-ddaf5b36a5ca" />
