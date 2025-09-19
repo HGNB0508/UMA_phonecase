@@ -1,6 +1,7 @@
 # UMA_phonecase
 ---
 # 도안
+---
 <details>
   <summary> 디자인 리스트 (눌러서 확장)</summary>
 
@@ -8,6 +9,7 @@
   - 내용2  
 
 </details>
+
 ---
 1차 도안
 ![Image](https://github.com/user-attachments/assets/5f36d23c-246f-47c1-90bb-da19b485c8cf)
