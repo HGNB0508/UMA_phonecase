@@ -87,6 +87,7 @@
 # 케이스 리스트
 
 ### **iPhone 기종**
+- 아이폰 17, 17AIR, 16+, 17 PRO, 17 PRO MAX
 - 아이폰 16, 16e, 16+, 16 PRO, 16 PRO MAX
 - 아이폰 15, 15+, 15 PRO, 15 PRO MAX
 - 아이폰 14, 14+, 14 PRO, 14 PRO MAX
@@ -117,6 +118,8 @@
   - 갤럭시 A36  
 
 - **Galaxy Z 시리즈**  
+  - 갤럭시 Z폴드7  
+
   - 갤럭시 Z플립7  
   - 갤럭시 Z플립6  
   - 갤럭시 Z플립5  
@@ -136,7 +139,8 @@
 
 
 ### **iPhone 기종**
-- 아이폰 16, 16e, 16+, 16 PRO, 16 PRO MAX
+- 아이폰 17, 17AIR, 16+, 17 PRO, 17 PRO MAX
+- 아이폰 16, 16+, 16 PRO, 16 PRO MAX
 - 아이폰 15, 15+, 15 PRO, 15 PRO MAX
 - 아이폰 14, 14+, 14 PRO, 14 PRO MAX
 - 아이폰 13, 13 MINI, 13 PRO, 13 PRO MAX
